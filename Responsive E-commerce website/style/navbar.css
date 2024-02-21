@@ -1,0 +1,30 @@
+.section1 {
+  display: flex;
+}
+.symbols {
+  border-radius: 25px;
+  width: 850px;
+  padding: 0.8rem;
+  margin: auto;
+  box-shadow: 2px 3px 3px 2px rgb(184, 179, 179);
+  color: rgb(51, 34, 82);
+  background-color: white;
+}
+.symbols i {
+  margin-left: 4rem;
+  font-size: 30px;
+  padding: 1rem;
+}
+.symbols i:hover {
+  background-color: grey;
+  border-radius: 50px;
+  color: white;
+}
+.profile {
+  border: 1px solid white;
+  border-radius: 25px;
+  padding: 1rem;
+  margin: auto;
+  box-shadow: 2px 3px 3px 2px grey;
+}
+

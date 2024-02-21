@@ -1,0 +1,73 @@
+.container-2 {
+  margin-top: 3rem;
+}
+.login {
+  padding: 3rem;
+  width: 500px;
+  height: 600px;
+  border: 1px solid white;
+  margin: auto;
+  box-shadow: 2px 3px 3px 2px grey;
+}
+.login h3 {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+input[type="email"] {
+  width: 450px;
+  border: none;
+  margin-left: 1rem;
+  padding: 0.8rem;
+  font-size: 15px;
+  box-shadow: 2px 3px 3px 2px grey;
+}
+
+input[type="password"] {
+  width: 450px;
+  border: none;
+  margin-left: 1rem;
+  padding: 0.8rem;
+  font-size: 15px;
+  margin-top: 1.5rem;
+  box-shadow: 2px 3px 3px 2px grey;
+}
+input[type="submit"] {
+  width: 479px;
+  margin-left: 1rem;
+  padding: 0.8rem;
+  font-size: 15px;
+  margin-top: 1.5rem;
+  border: none;
+  background-color: rgb(51, 34, 82);
+  cursor: pointer;
+  font-weight: 600;
+  color: white;
+  box-shadow: 2px 3px 3px 2px grey;
+}
+#sub:hover {
+  font-weight: 600;
+  color: rgb(51, 34, 82);
+  background-color: rgb(155, 151, 151);
+}
+.another-section p {
+  text-align: center;
+  margin-top: 5rem;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.symbol-1 {
+  margin-left: 7rem;
+}
+.symbol-1 i {
+  border: 1px solid white;
+  padding: 1.7rem;
+  margin-left: 1rem;
+  box-shadow: 2px 3px 3px 2px grey;
+  font-size: 25px;
+}
+.symbol-1 i:hover {
+  color: white;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(51, 34, 82);
+}
