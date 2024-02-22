@@ -1,0 +1,91 @@
+.cart-section {
+  display: flex;
+}
+.cart {
+  margin-top: 4rem;
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  text-shadow: 3px 2px 5px rgb(51, 34, 82);
+
+}
+.product-detail th {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  color: rgb(70, 68, 68);
+}
+.order-section {
+  padding: 2rem;
+  width: 900px;
+  height: 450px;
+  box-shadow: 2px 3px 3px 2px rgb(184, 179, 179);
+  margin-left: 2rem;
+}
+.product-1-detail td {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.product-1-detail img {
+  width: 100px;
+  height: 120px;
+  box-shadow: 2px 3px 3px 2px rgb(184, 179, 179);
+}
+.product-2-detail td {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.product-2-detail img {
+  width: 100px;
+  height: 120px;
+  box-shadow: 2px 3px 3px 2px rgb(184, 179, 179);
+}
+.product-3-detail td {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.product-3-detail img {
+  width: 100px;
+  height: 120px;
+  box-shadow: 2px 3px 3px 2px rgb(184, 179, 179);
+}
+.order-sum {
+  box-shadow: 2px 3px 3px 2px rgb(184, 179, 179);
+  background-color: rgb(221, 206, 206);
+  height: 400px;
+  width: 500px;
+  margin-left: 2rem;
+}
+.order-sum h1 {
+  text-align: center;
+}
+.order {
+  width: 400px;
+  height: 100px;
+  margin-left: 2rem;
+}
+.order-section-1 th {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.order-section-1 td {
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.add-coupon {
+  margin-left: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+}
+.checkout {
+  width: 350px;
+  margin-left: 3rem;
+  height: 35px;
+  background-color: green;
+  border: 1px solid green;
+  color: white;
+}
+.checkout:hover {
+  background-color: rgb(3, 46, 3);
+  cursor: pointer;
+}
